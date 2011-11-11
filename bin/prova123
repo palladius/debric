@@ -1,0 +1,4 @@
+
+VER=1.0
+
+echo My first script $0 v$VER from package debtest
