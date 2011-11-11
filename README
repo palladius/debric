@@ -1,2 +1,6 @@
-
 This project aims to generate a debian package out of this source... with all necessary dependencies!
+
+= How to Debianize = 
+
+Found this script here:
+   https://raw.github.com/nighto/make-simple-debian-package/master/make-simple-debian-package
