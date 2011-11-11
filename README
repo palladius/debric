@@ -4,3 +4,9 @@ This project aims to generate a debian package out of this source... with all ne
 
 Found this script here:
    https://raw.github.com/nighto/make-simple-debian-package/master/make-simple-debian-package
+
+
+= Resources =
+
+* http://lpenz.github.com/articles/debgit/index.html  (thanks aturli)
+* http://www.cduce.org/~abate/github-and-debian
