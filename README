@@ -10,6 +10,12 @@ Found this script here:
 To see a debian package content, try 
  ''apt-get install deb-gview''
 
+= Structure =
+
+ bin/        # tools to build stuff
+ src/        # root of my package
+ debian/     # stuff needed by debian packaging system
+
 
 = Resources =
 
