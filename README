@@ -22,3 +22,4 @@ To see a debian package content, try
 * http://lpenz.github.com/articles/debgit/index.html  (thanks aturli)
 * http://www.cduce.org/~abate/github-and-debian
 * http://www.ibm.com/developerworks/linux/library/l-debpkg/index.html
+* http://www.debian.org/doc/debian-policy/ch-controlfields.html (Debian control fields)
