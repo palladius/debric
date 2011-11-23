@@ -5,6 +5,11 @@ This project aims to generate a debian package out of this source... with all ne
 Found this script here:
    https://raw.github.com/nighto/make-simple-debian-package/master/make-simple-debian-package
 
+= Miscellaneus
+
+To see a debian package content, try 
+ ''apt-get install deb-gview''
+
 
 = Resources =
 
