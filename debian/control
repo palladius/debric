@@ -1,19 +1,19 @@
 Package: debtest
-Version: 0.1
+Version: 0.2
 Section: web
 Priority: optional
 Architecture: all
 Essential: no
 Depends: libwww-perl, ruby1.8 (>= 1.2)
 Pre-Depends: perl 
-Recommends: polygen | netscape  
-Suggests: docbook 
-Installed-Size: 1024
+#Recommends: polygen | netscape  
+#Suggests: docbook 
+#Installed-Size: 1024
 Maintainer: Riccardo Carlesso <rusko@palladius.it>
 Conflicts: wile-e-coyote
 Replaces: sam-sheepdog
 Provides: acme
 Source: debtest
-Description: The description can contain free-form text
+Description: This my first package of Riccardo with stupid scripts.
              describing the function of the program, what
              kind of features it has, and so on.
